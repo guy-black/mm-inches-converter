@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mm-inches-converter/precache-manifest.cbf47fe136d926d68ae39df592c398fe.js"
+  "/mm-inches-converter/precache-manifest.5dd69d15ef4eb6d9fe8f9b8b8c57b121.js"
 );
 
 self.addEventListener('message', (event) => {
